@@ -1,0 +1,12 @@
+.env
+.env.local
+__pycache__/
+*.pyc
+node_modules/
+.next/
+chroma_db/
+audit.db
+results/
+.DS_Store
+*.log
+.turbo/
